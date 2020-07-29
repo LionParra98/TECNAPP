@@ -55,7 +55,14 @@ div.menu {
    margin-right: 100px;
 }  
 
- 
+ .hojadevida table{
+
+    border-radius: 20px;
+}  
+
+
+
+
 
 .barra button {
     border: 5px; 
@@ -80,14 +87,14 @@ a{
     font-family: 'Seymour One', sans-serif;
     font-size:30px;
    
-   
+    border-radius: 20px;
 }
 
 div.box{
-    
+    border-radius: 20px;
     
     width: 100%;
-    margin-top: 5%;
+    margin-top: 20px;
     height: 10px;
 	font-family: 'Mulish', sans-serif;
     font-size: 30px ;
