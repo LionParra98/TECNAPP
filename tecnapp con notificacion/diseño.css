@@ -57,6 +57,9 @@ a{
     text-decoration: none;
 }
 
+.ingresar a{
+    color: white;
+  }
 div.login {
     float: right;
   
